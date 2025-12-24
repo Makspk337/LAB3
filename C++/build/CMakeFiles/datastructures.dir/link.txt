@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdatastructures.a CMakeFiles/datastructures.dir/array.cpp.o CMakeFiles/datastructures.dir/doubly_list.cpp.o CMakeFiles/datastructures.dir/forward_list.cpp.o CMakeFiles/datastructures.dir/hash_table.cpp.o CMakeFiles/datastructures.dir/queue.cpp.o CMakeFiles/datastructures.dir/stack.cpp.o CMakeFiles/datastructures.dir/tree.cpp.o
+/usr/bin/ranlib libdatastructures.a

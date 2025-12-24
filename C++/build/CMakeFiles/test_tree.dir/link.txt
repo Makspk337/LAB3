@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names --coverage -fprofile-arcs -ftest-coverage CMakeFiles/test_tree.dir/GoogleTest/test_tree.cpp.o CMakeFiles/test_tree.dir/tree.cpp.o -o test_tree  /opt/homebrew/lib/libgtest.a /opt/homebrew/lib/libgtest_main.a libdatastructures.a /opt/homebrew/lib/libgtest.a

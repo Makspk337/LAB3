@@ -1,0 +1,11 @@
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/datastructures.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/benchmark.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_array.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_doubly_list.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_forward_list.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_hash_table.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_queue.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_stack.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/test_tree.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/edit_cache.dir
+/Users/maks/Documents/LAB3/C++/build/CMakeFiles/rebuild_cache.dir

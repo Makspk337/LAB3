@@ -1,0 +1,98 @@
+{
+  "tests": 16,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "HashTableTest",
+      "tests": 9,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 6
+        },
+        {
+          "name": "InsertAndGet",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 11
+        },
+        {
+          "name": "Contains",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 24
+        },
+        {
+          "name": "UpdateValue",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 35
+        },
+        {
+          "name": "Remove",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 45
+        },
+        {
+          "name": "Rehash",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 64
+        },
+        {
+          "name": "Items",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 77
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 88
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 107
+        }
+      ]
+    },
+    {
+      "name": "CuckooHashTableTest",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 126
+        },
+        {
+          "name": "InsertAndGet",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 131
+        },
+        {
+          "name": "Contains",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 144
+        },
+        {
+          "name": "UpdateValue",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 155
+        },
+        {
+          "name": "Remove",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 165
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 181
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_hash_table.cpp",
+          "line": 200
+        }
+      ]
+    }
+  ]
+}

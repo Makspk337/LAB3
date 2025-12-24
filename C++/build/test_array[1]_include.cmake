@@ -1,0 +1,5 @@
+if(EXISTS "/Users/maks/Documents/LAB3/C++/build/test_array[1]_tests.cmake")
+  include("/Users/maks/Documents/LAB3/C++/build/test_array[1]_tests.cmake")
+else()
+  add_test(test_array_NOT_BUILT test_array_NOT_BUILT)
+endif()

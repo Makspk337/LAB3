@@ -1,0 +1,47 @@
+{
+  "tests": 7,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "QueueTest",
+      "tests": 7,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 6
+        },
+        {
+          "name": "PushAndPeek",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 13
+        },
+        {
+          "name": "Pop",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 27
+        },
+        {
+          "name": "Read",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 41
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 54
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 74
+        },
+        {
+          "name": "EmptySerialize",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_queue.cpp",
+          "line": 94
+        }
+      ]
+    }
+  ]
+}

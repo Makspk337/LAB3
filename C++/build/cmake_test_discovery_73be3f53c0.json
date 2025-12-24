@@ -1,0 +1,77 @@
+{
+  "tests": 13,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ArrayTest",
+      "tests": 13,
+      "testsuite": [
+        {
+          "name": "ConstructorAndBasic",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 6
+        },
+        {
+          "name": "PushBackAndGet",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 12
+        },
+        {
+          "name": "Read",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 26
+        },
+        {
+          "name": "Insert",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 36
+        },
+        {
+          "name": "Remove",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 53
+        },
+        {
+          "name": "Replace",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 73
+        },
+        {
+          "name": "CopyConstructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 86
+        },
+        {
+          "name": "MoveConstructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 100
+        },
+        {
+          "name": "CopyAssignment",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 111
+        },
+        {
+          "name": "MoveAssignment",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 123
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 136
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 152
+        },
+        {
+          "name": "EmptySerialize",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_array.cpp",
+          "line": 168
+        }
+      ]
+    }
+  ]
+}

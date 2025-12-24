@@ -1,0 +1,5 @@
+if(EXISTS "/Users/maks/Documents/LAB3/C++/build/test_queue[1]_tests.cmake")
+  include("/Users/maks/Documents/LAB3/C++/build/test_queue[1]_tests.cmake")
+else()
+  add_test(test_queue_NOT_BUILT test_queue_NOT_BUILT)
+endif()

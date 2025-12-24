@@ -1,0 +1,52 @@
+{
+  "tests": 8,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "TreeTest",
+      "tests": 8,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 6
+        },
+        {
+          "name": "InsertAndFind",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 12
+        },
+        {
+          "name": "ReadPreorder",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 34
+        },
+        {
+          "name": "IsFull",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 49
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 75
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 102
+        },
+        {
+          "name": "EmptyTree",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 125
+        },
+        {
+          "name": "SingleNode",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_tree.cpp",
+          "line": 147
+        }
+      ]
+    }
+  ]
+}

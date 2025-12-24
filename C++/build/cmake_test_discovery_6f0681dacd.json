@@ -1,0 +1,77 @@
+{
+  "tests": 13,
+  "name": "AllTests",
+  "testsuites": [
+    {
+      "name": "ForwardListTest",
+      "tests": 13,
+      "testsuite": [
+        {
+          "name": "Constructor",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 6
+        },
+        {
+          "name": "PushHead",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 12
+        },
+        {
+          "name": "PushTail",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 23
+        },
+        {
+          "name": "PushBefore",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 34
+        },
+        {
+          "name": "PushAfter",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 47
+        },
+        {
+          "name": "DeleteHead",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 60
+        },
+        {
+          "name": "DeleteTail",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 80
+        },
+        {
+          "name": "DeleteBefore",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 100
+        },
+        {
+          "name": "DeleteAfter",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 114
+        },
+        {
+          "name": "DeleteValue",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 128
+        },
+        {
+          "name": "Find",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 145
+        },
+        {
+          "name": "SerializeBinary",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 159
+        },
+        {
+          "name": "SerializeText",
+          "file": "\/Users\/maks\/Documents\/LAB3\/C++\/GoogleTest\/test_forward_list.cpp",
+          "line": 175
+        }
+      ]
+    }
+  ]
+}
